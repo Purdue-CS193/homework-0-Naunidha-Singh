@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Naunidha Singh's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Some of my favourite things about CS 193 class
+
+-It does not have any tests or quizzes
+-The teaching style of the TA's is very fun and interesting
+-It is helping us learn things that we will be using very frequently during our programming journey
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
