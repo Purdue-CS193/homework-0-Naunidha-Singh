@@ -33,6 +33,7 @@ Syntax highlighted code block
 -The teaching style of the TA's is very fun and interesting
 
 -It is helping us learn things that we will be using very frequently during our programming journey
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
